@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.top{
+    background-color: #00a8cc;
+    position: relative;
+}
+.top-left{
+    position: absolute;
+    left: 5%;
+    top: 5%;
+}
+.top-right{
+    position: absolute;
+    right: 2%;
+    top: 5%;
+}
+.foot{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: 10px 0 0 0;
+    background-color: #00a8cc;
+}
+.profilepic{
+    width: 150px;
+    height: 125px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.mainprofilepic{
+    width: 350px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.judul{
+    margin-top: 0;
+    padding-top: 180px;
+    font-family: 'VT323', monospace;
+    font-size: 400%;
+    margin-bottom: 0;
+}
+h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 300%;
+}
+h2{
+    margin-top: 5px;
+    font-family: 'Lobster Two', cursive;
+    font-size: 300%;
+    margin-bottom: 0;
+}
+h3{
+    font-family: 'Merienda One', cursive;
+}
+.dreams{
+    font-size: 150%;
+    font-family: 'Merienda One', cursive;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #142850;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    padding-right: 10px;
+    font-size: 125%;
+}
+a:hover{
+    background-color: #6886c5;
+}
+p{
+    font-family: 'Playfair Display', serif;
+    font-size: 100%;
+}
+.perkenalan{
+    font-family: 'Merienda One', cursive;
+}
+.pendidikan{
+    margin: 50px auto 50px;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+}
+.pendidikan-img{
+    border-radius: 50%;
+    background-color: #c3edea;
+    margin-right: 10px;
+    float: left;
+}
+.organisasi{
+    margin: 50px auto 50px;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+}
+.organisasi-img{
+    width: 25%;
+    border-radius: 10%;
+    background-color: #c3edea;
+    margin-left: 10px;
+    float: right;
+}
+.it{
+    margin: 50px auto 50px;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+}
+.it-img{
+    width: 20%;
+    border-radius: 10%;
+    background-color: #c3edea;
+    margin-right: 10px;
+    float: left;
+}
+hr{
+    border-width: 5px;
+    border-style: dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin: 0 auto 0 auto;
+    width: 5%;
+}
+.contact-bawah{
+    margin: 2px 5px 0 5px;
+}
+.medsos-a{
+    margin-top: 5px;
+    padding: 5px 10px 0 10px;
+}
